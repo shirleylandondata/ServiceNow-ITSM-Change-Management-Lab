@@ -42,7 +42,8 @@ This is the same discipline that underlies change-control requirements in framew
 
 The diagram below maps the full change record — governance gate, production target, CAB approval workflow, maintenance window, and both change tasks — to the ServiceNow modules and roles that carry it from creation to closure, alongside the lab's environment, roles, and certification alignment.
 
-![Lab 4 — ServiceNow ITSM Change Management Architecture](diagrams/architecture-diagram.png)
+<img width="2400" height="2294" alt="architecturediagram" src="https://github.com/user-attachments/assets/da5c0ddb-6a08-4f79-88db-17e8eb058d50" />
+
 
 **Data flow:** Change Request → Risk / Impact Assessment → CAB Approval → Scheduled Window → Implementation Task → Testing Task → Review → Closed → Operational Reporting
 
