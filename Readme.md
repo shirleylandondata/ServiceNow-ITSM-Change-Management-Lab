@@ -92,9 +92,8 @@ The Planning section captured business justification, risk analysis, implementat
 6. Review system and application event logs.
 7. Monitor server performance before continuing.
 
-```markdown
-![Change Planning](screenshots/02-change-planning.png)
-```
+<img width="1896" height="739" alt="02-change-planning" src="https://github.com/user-attachments/assets/79e6ae26-0ccb-4b83-9d01-4d3e8eeac3bf" />
+
 
 ### 3. Schedule the Change
 
@@ -107,9 +106,8 @@ The Planning section captured business justification, risk analysis, implementat
 
 A defined maintenance window provides a controlled implementation period and limits disruption to production services.
 
-```markdown
-![Approved Change Window](screenshots/03-change-schedule.png)
-```
+<img width="1873" height="874" alt="03-change-schedule" src="https://github.com/user-attachments/assets/4cc25c9b-5477-4c16-b194-66ca2ae0c69f" />
+
 
 ### 4. Manage the CAB Approval Workflow
 
@@ -122,13 +120,13 @@ Because the change was configured to require CAB review, it entered the approval
 
 The CAB recommendation covered upgrade scope, implementation plan, business impact, testing procedures, and backout strategy. After approval, ServiceNow progressed the change through Authorization into the Scheduled state.
 
-```markdown
-![CAB Approval Requests](screenshots/04-approval-request.png)
+<img width="997" height="762" alt="04-approval-request" src="https://github.com/user-attachments/assets/827cad94-6a99-4469-b19d-3120d5a727b9" />
 
-![CAB Approvals](screenshots/05-cab-approvals.png)
 
-![Authorized and Scheduled Change](screenshots/06-change-scheduled.png)
-```
+<img width="1798" height="619" alt="05-cab-approvals" src="https://github.com/user-attachments/assets/00004972-2414-43c5-a211-7f6c4afecfb1" />
+
+<img width="1906" height="521" alt="06-change-scheduled" src="https://github.com/user-attachments/assets/7d0618ee-d564-4112-acf2-ef348d940cc7" />
+
 
 ### 5. Implement the Change
 
