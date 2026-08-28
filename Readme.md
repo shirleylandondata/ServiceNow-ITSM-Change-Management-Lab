@@ -133,9 +133,8 @@ The CAB recommendation covered upgrade scope, implementation plan, business impa
 
 After approval and scheduling, the change moved into the Implement phase. ServiceNow generated change tasks to separate implementation work from post-implementation validation — the Implementation Task represented execution of the upgrade and was tracked and closed independently.
 
-```markdown
-![Implementation Change Task](screenshots/07-implementation-task.png)
-```
+<img width="1842" height="745" alt="07-implementation-task" src="https://github.com/user-attachments/assets/816fec99-12c9-4116-b213-1d731271372c" />
+
 
 ### 6. Perform Post-Implementation Testing
 
@@ -151,9 +150,8 @@ A separate Testing change task validated the upgraded environment before the par
 
 Both the Implementation and Post-Implementation Testing tasks were closed successfully.
 
-```markdown
-![Post-Implementation Testing](screenshots/08-testing-task.png)
-```
+<img width="1823" height="916" alt="08-testing-task" src="https://github.com/user-attachments/assets/21b702a3-07c0-4b36-b65f-eff12d372be2" />
+
 
 ### 7. Review and Close the Change
 
@@ -161,11 +159,11 @@ After implementation and testing, the change progressed to Review. The record ca
 
 > Windows Server 2025 production server upgrade completed successfully. All planned implementation activities were completed and post-implementation testing confirmed server availability, network connectivity, Windows services, and production applications were functioning as expected. No critical issues were identified during validation. The change was completed without requiring the backout plan.
 
-```markdown
-![Change Review](screenshots/09-change-review.png)
+<img width="1920" height="1723" alt="09-change-review" src="https://github.com/user-attachments/assets/9fb016f2-f061-4360-8004-e864585e98c4" />
 
-![Successfully Closed Change](screenshots/10-change-closed.png)
-```
+
+<img width="1920" height="1563" alt="10-change-closed" src="https://github.com/user-attachments/assets/8dbb7686-df12-4563-b453-2fe1de86f723" />
+
 
 ### 8. Build an Operational Report
 
@@ -183,9 +181,8 @@ A ServiceNow report was created to analyze recent incident activity as a closing
 
 **Results:** 6 incidents in the reporting period, all classified as Priority 4 – Low (100%).
 
-```markdown
-![Incident Volume by Priority Report](screenshots/11-incident-report.png)
-```
+<img width="1886" height="923" alt="11-incident-report" src="https://github.com/user-attachments/assets/4765171a-dc20-4acb-b1d0-7dec8376ccb5" />
+
 
 The completed report was exported to PDF to demonstrate report distribution and documentation:
 
