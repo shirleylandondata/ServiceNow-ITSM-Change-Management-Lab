@@ -66,9 +66,8 @@ A Normal Change was created for the production Windows Server 2025 upgrade.
 
 The change description documented the business justification: vendor support, current security updates, system performance, and reliability.
 
-```markdown
-![Normal Change Request](screenshots/01-change-request.png)
-```
+<img width="1906" height="899" alt="01-change-request" src="https://github.com/user-attachments/assets/6c750d23-ee08-4b1f-9840-7a3027d4a5a8" />
+
 
 ### 2. Document Change Planning
 
