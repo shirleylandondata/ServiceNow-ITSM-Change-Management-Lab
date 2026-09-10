@@ -1,6 +1,6 @@
 # ServiceNow ITSM — Enterprise Change Management Lab
 
-**End-to-end Normal Change lifecycle: request → risk assessment → CAB approval → scheduled implementation → validation → closure → operational reporting**
+## **End-to-end Normal Change lifecycle: request → risk assessment → CAB approval → scheduled implementation → validation → closure → operational reporting**
 
 ![ServiceNow](https://img.shields.io/badge/Platform-ServiceNow-1F6FEB?logo=servicenow&logoColor=white) ![ITIL 4](https://img.shields.io/badge/Framework-ITIL%204-2EA043?style=flat) ![Change Management](https://img.shields.io/badge/Focus-Change%20Management-8250DF) ![Status](https://img.shields.io/badge/Status-Completed-2EA043)
 
