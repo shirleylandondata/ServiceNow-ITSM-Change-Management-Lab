@@ -242,8 +242,9 @@ ServiceNow-ITSM-Change-Management-Lab/
     └── 11-incident-report.png
 ```
 
----
+## Author
+Shirley Landon  
+Business Intelligence Analyst | Cloud | IT | Automation
 
-## Project Status
+**LinkedIn**: https://www.linkedin.com/in/shirleylandon/
 
-**Completed** — the change request progressed successfully from New through Assess, Authorize, Scheduled, Implement, Review, and Closed.
