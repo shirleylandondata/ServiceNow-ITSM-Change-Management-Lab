@@ -243,7 +243,7 @@ ServiceNow-ITSM-Change-Management-Lab/
 ```
 
 ## Author
-Shirley Landon  
+# Shirley Landon  
 Business Intelligence Analyst | Cloud | IT | Automation
 
 **LinkedIn**: https://www.linkedin.com/in/shirleylandon/
